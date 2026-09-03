@@ -1,0 +1,4 @@
+# name|host|port|user|identity_file|jump_host
+server01|203.0.113.10|22|root|/root/.ssh/id_ed25519|-
+server02|cpanel.example.com|22|root|/root/.ssh/id_ed25519|-
+# IPv6 example: server03|2001:db8::10|22|root|/root/.ssh/id_ed25519|-
